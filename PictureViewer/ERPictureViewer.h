@@ -12,7 +12,7 @@
 #import "ERPictureViewController.h"
 @class ERPictureViewer;
 
-//typedef void(^downloadOriginalImageCompleteBlcok)(NSInteger index ,UIImage *image ,NSString *path);xxxxx
+//typedef void(^downloadOriginalImageCompleteBlcok)(NSInteger index ,UIImage *image ,NSString *path);
 
 @protocol ERPictureViewerDelegate <NSObject>
 //下载
